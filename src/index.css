@@ -3,3 +3,34 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.image-logo {
+  width: 250px;
+  height: 100px;
+}
+
+.page-header {
+  text-align: center;
+  background-color: #2f4858;
+  padding: 40px 0;
+}
+
+.color-action {
+  color: #21927A;
+}
+
+.color-title {
+  color: #eeeeee;
+}
+
+.color-body {
+  color: #484e5c;
+}
+
+.text-header {
+  font-size: 2.4em;
+}
+
+.text-body {
+  font-size: 1.2em;
+}
