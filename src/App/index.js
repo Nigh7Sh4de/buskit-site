@@ -12,7 +12,7 @@ class App extends Component {
             <h1 className="text-header color-title">Welcome to buskit.tv</h1>
           </header>
           <p className="text-body color-body" style={{textAlign: 'center'}}>
-          This site is currently under maintenance. Please stand by for something awesome.
+          This site is currently under maintenance. Please stand by for something awesome. TEST.
           </p>
         </div>
       </div>
