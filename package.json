@@ -1,6 +1,6 @@
 {
   "name": "site",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "homepage": "http://nigh7sh4de.github.io/buskit-site",
   "dependencies": {
